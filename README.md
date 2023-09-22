@@ -19,12 +19,6 @@
 
 - ⚡ Fun fact **Am 16**
 
-<p>
-<a href="https://dribbble.com/https://dribbble.com/metagravity0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/metagravity0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@obsidianthedeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@obsidianthedeveloper" height="30" width="40" /></a>
-</p>
-
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=meta-gravity&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meta-gravity&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
