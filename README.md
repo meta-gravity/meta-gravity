@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/metagravity0" target="blank"><img src="https://img.shields.io/twitter/follow/metagravity0?logo=twitter&style=for-the-badge" alt="metagravity0" /></a> </p>
 
-- 🔭 I’m currently working on [Flame](https://github.com/meta-gravity/Flame-v2)
+- 🔭 I’m currently working on [Fuse](https://github.com/meta-gravity/Flame-v2)
 
 - 🌱 I’m currently learning **Next.js**
 
