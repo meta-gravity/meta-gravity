@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hey+there+%F0%9F%91%8B+;It's+metagravity;Make+yourself+at+home🍀)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate fullstack developer</h3>
