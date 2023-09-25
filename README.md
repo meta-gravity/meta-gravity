@@ -1,4 +1,6 @@
+<h3 align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hi+there+%F0%9F%91%8B+;It's+metagravity;make+yourself+at+home)](https://git.io/typing-svg)
+</h3>
 <h3 align="center">A passionate fullstack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meta-gravity&label=Profile%20views&color=0e75b6&style=flat" alt="meta-gravity" /> </p>
 
