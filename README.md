@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [N#XT](https://github.com/N3XT-hub)
+- 👯 I’m looking to collaborate on [Any open source project](https://twitter.com/Metagravity0)
 
 - 👨‍💻 All of my projects are available at [https://github.com/meta-gravity](https://github.com/meta-gravity)
 
