@@ -11,10 +11,6 @@
 
 - 👯 I’m looking to collaborate on [Any open source project](https://twitter.com/Metagravity0)
 
-- 👨‍💻 All of my projects are available at [https://github.com/meta-gravity](https://github.com/meta-gravity)
-
-- 📝 I regularly write articles on [https://proghaven.blog.notaku.site/](https://proghaven.blog.notaku.site/)
-
 - 📫 How to reach me **metagravity0@gmail.com**
 
 - ⚡ Fun fact **Am 16**
