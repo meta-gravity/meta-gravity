@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/metagravity0" target="blank"><img src="https://img.shields.io/twitter/follow/metagravity0?logo=twitter&style=for-the-badge" alt="metagravity0" /></a> </p>
 
-- 🍀 I’m currently working on [my well you should definately check it out yourself](https://x.com/Metagravity0/status/1708203253173727691?s=20)
+- 🍀 I’m currently working on [Scribe Ai](https://x.com/Metagravity0/status/1708203253173727691?s=20)
 
 - 🌱 I’m currently learning **Next.js**
 
