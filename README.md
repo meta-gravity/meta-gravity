@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hey+there+%F0%9F%91%8B+;It's+metagravity;Make+yourself+at+home🍀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hey+there👋+%F0%9F%91%8B+;It's+metagravity;Look+👀)](https://git.io/typing-svg)
 
 <h3 align="center">Just mee</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meta-gravity&label=Profile%20views&color=0e75b6&style=flat" alt="meta-gravity" /> </p>
@@ -14,6 +14,8 @@
 - 📫 How to reach me **metagravity0@gmail.com**
 
 - ⚡ Fun fact **Am 16**
+
+- ⚒️ Join the [GenZ developer community Now!!!](https://dub.sh/genZ-developer)
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=meta-gravity&theme=nightowl&hide_border=false)
