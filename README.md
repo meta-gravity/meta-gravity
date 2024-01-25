@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hey+there+👋+;It's+metagravity;Look+👀:🙃;:])](https://git.io/typing-svg)
 
-<h3 align="center">Happy new year 🥳🥂</h3>
+<h3 align="center">Building now!!! 🥳🥂</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meta-gravity&label=Profile%20views&color=0e75b6&style=flat" alt="meta-gravity" /> </p>
 
 <p align="left"> <a href="https://twitter.com/metagravity0" target="blank"><img src="https://img.shields.io/twitter/follow/metagravity0?logo=twitter&style=for-the-badge" alt="metagravity0" /></a> </p>
