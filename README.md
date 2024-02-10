@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **metagravity0@gmail.com**
 
-- ⚡ Fun fact **Am 16.5**
+- ⚡ Fun fact **Am 16.8**
 
 - ⚒️ Join the [GenZ developer community Now!!!](https://dub.sh/genZ-developer)
 
